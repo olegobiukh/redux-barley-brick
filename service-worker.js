@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/redux-barley-brick/precache-manifest.30842c7d4be76b0ce087d8ea2b2ed66e.js"
+  "/redux-barley-brick/precache-manifest.a4dcfeb119237b00932a9d7dcd062e5d.js"
 );
 
 workbox.clientsClaim();

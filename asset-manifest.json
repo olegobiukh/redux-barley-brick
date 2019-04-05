@@ -1,14 +1,13 @@
 {
-  "main.css": "/redux-barley-brick/static/css/main.5f14abab.chunk.css",
-  "main.js": "/redux-barley-brick/static/js/main.e3de3b22.chunk.js",
-  "main.js.map": "/redux-barley-brick/static/js/main.e3de3b22.chunk.js.map",
+  "main.css": "/redux-barley-brick/static/css/main.5e0878f9.chunk.css",
+  "main.js": "/redux-barley-brick/static/js/main.8fa5016c.chunk.js",
+  "main.js.map": "/redux-barley-brick/static/js/main.8fa5016c.chunk.js.map",
   "runtime~main.js": "/redux-barley-brick/static/js/runtime~main.e94f4de1.js",
   "runtime~main.js.map": "/redux-barley-brick/static/js/runtime~main.e94f4de1.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/redux-barley-brick/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/redux-barley-brick/static/js/2.6efc73d3.chunk.js.map",
+  "static/js/2.d071d169.chunk.js": "/redux-barley-brick/static/js/2.d071d169.chunk.js",
+  "static/js/2.d071d169.chunk.js.map": "/redux-barley-brick/static/js/2.d071d169.chunk.js.map",
   "index.html": "/redux-barley-brick/index.html",
-  "precache-manifest.30842c7d4be76b0ce087d8ea2b2ed66e.js": "/redux-barley-brick/precache-manifest.30842c7d4be76b0ce087d8ea2b2ed66e.js",
+  "precache-manifest.a4dcfeb119237b00932a9d7dcd062e5d.js": "/redux-barley-brick/precache-manifest.a4dcfeb119237b00932a9d7dcd062e5d.js",
   "service-worker.js": "/redux-barley-brick/service-worker.js",
-  "static/css/main.5f14abab.chunk.css.map": "/redux-barley-brick/static/css/main.5f14abab.chunk.css.map",
-  "static/media/logo.svg": "/redux-barley-brick/static/media/logo.5d5d9eef.svg"
+  "static/css/main.5e0878f9.chunk.css.map": "/redux-barley-brick/static/css/main.5e0878f9.chunk.css.map"
 }
