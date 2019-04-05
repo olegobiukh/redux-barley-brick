@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/redux-barley-brick/build/precache-manifest.aed6eb1bf285d17055977985eb15f9b7.js"
+  "/redux-barley-brick/precache-manifest.30842c7d4be76b0ce087d8ea2b2ed66e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/redux-barley-brick/build/index.html", {
+workbox.routing.registerNavigationRoute("/redux-barley-brick/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
